@@ -31,11 +31,11 @@ This project demonstrates a simple Library Management System using Hibernate ORM
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/simple-library-management.git
+   git clone https://github.com/your-repository/LibraryManagementSystem.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd simple-library-management
+   cd simple-LibraryManagementSystem
    ```
 3. Build the project using Maven:
    ```bash
